@@ -1,2 +1,2 @@
 # test
-teat repo
+teat repo for git commands demonustration 
